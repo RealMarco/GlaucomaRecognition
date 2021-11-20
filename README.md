@@ -13,6 +13,7 @@ Loss = 0.5MSE Loss + 0.5Euclidean Distance
 
 ## Task 3
 Segment optic disc/cup from fundus images.  
+UNet, G Residual Network.  
 Cross Entropy Loss   
 Metric: Dice  
 
