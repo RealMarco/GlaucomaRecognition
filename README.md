@@ -1,5 +1,8 @@
 # GlaucomaRecognition
 This is the code of Glaucoma Grading from Multi-Modality imAges. Task 1 is glaucoma grading, task 2 is macular fovea localization, and task 3 is optic disc/cup segmentation.  
+Framework: PaddlePaddle (It is a Torch-like DL framework built by Baidu)  
+GPU: Tesla V100  
+Mainly achieved by Jupter Notebook in Python, transforms.py and functional.py are written for data augmentation and image processing.    
 
 ## Task 1
 Glaucoma Grading (Classification, 3 classed): non, early, mid-advanced  
